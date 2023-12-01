@@ -1,2 +1,3 @@
 # JNNCEDEMO
-This is JNNCEDEMO repository
+This is a JNNCEDEMO repository
+Author : kabshaharmine M Bangalore.
